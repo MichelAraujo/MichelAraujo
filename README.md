@@ -1,4 +1,4 @@
-## Welcome on my profile! 👋
+![banner](https://raw.githubusercontent.com/MichelAraujo/MichelAraujo/master/michel.png)
 
 Here are some ideas to get you started:
 
